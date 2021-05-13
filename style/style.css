@@ -1,0 +1,46 @@
+@charset "UTF-8";
+h1{
+    margin-bottom: 0
+}
+p{
+    margin-top: 0;
+    font-size: 14px;
+}
+table.outerTbl{
+    width: 600px;
+/*    border: 1px solid #000;*/
+/*    border-collapse: collapse;*/
+}
+table.outerTbl td{
+    width: 300px;
+    height: 200px;
+/*    border: 1px solid #000;*/
+}
+table.InnerTbl_First th{
+    background-color: #ddaaa9;
+}
+table.InnerTbl_First td{
+    padding-top : 10px;
+}
+table.InnerTbl_Second th{
+    background-color: #aabbcb;
+}
+table.InnerTbl_Second td{
+
+    padding-top : 10px;
+}
+table.InnerTbl_Third th{
+  background-color: #ecbbaa;
+}
+table.InnerTbl_Third td{
+    padding-top : 10px;
+}
+table.InnerTbl_Fourth th{
+    background-color: #aaaa77;
+}
+table.InnerTbl_Fourth td{
+    padding-top : 10px;
+}
+
+
+
